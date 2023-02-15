@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a software engineer with a growth mindset and an inquisitive nature. I think, generally, as people get older we tend to become
+comfortable with our understanding and complacent with our ignorance; it's an easy pit to fall in that limits our growth and subdues 
+our curiosity. My journey as a software engineer, a position of lifelong learning and autodidacticism, ensures continued exploration of
+ideas, reinforces the asking of "How" things work, and provides inexhaustible opportunities to frustrate over errors.
