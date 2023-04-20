@@ -17,6 +17,24 @@ Here are some ideas to get you started:
 
 I am a software engineer with a growth mindset and an inquisitive nature. I think, generally, as people get older we tend to become comfortable with our understanding and complacent with our ignorance; it's an easy pit to fall in that limits our growth and subdues our curiosity. My journey as a software engineer, a position of lifelong learning and autodidacticism, counteracts that complacency by promoting the "Hows" of processes, encouraging the exploration of new ideas, and providing opportunities to grow from mistakes.
 
+## Technologies I use:
+- HTML
+- CSS
+- JavaScript ES6
+- React
+- Next.js
+- Node.js
+- MongoDB
+- Mongoose
+- Express
+- PostgreSQL
+- Python
+- Django
+- Flask
+- Peewee
+- Git
+- GitHub
+
 ## More About Me:
 
 ### LinkedIn: https://www.linkedin.com/in/lee-benson/
