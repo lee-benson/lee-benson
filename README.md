@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a software engineer with a growth mindset and an inquisitive nature. I think, generally, as people get older we tend to become
-comfortable with our understanding and complacent with our ignorance; it's an easy pit to fall in that limits our growth and subdues 
-our curiosity. My journey as a software engineer, a position of lifelong learning and autodidacticism, reinforces the asking of "How" 
-things work, ensures continued exploration of ideas, and provides an inexhaustible opportunity to frustrate over errors.
+I am a software engineer with a growth mindset and an inquisitive nature. I think, generally, as people get older we tend to become comfortable with our understanding and complacent with our ignorance; it's an easy pit to fall in that limits our growth and subdues our curiosity. My journey as a software engineer, a position of lifelong learning and autodidacticism, counteracts that complacency by promoting the "Hows" of processes, encouraging the exploration of new ideas, and providing opportunities to grow from mistakes.
